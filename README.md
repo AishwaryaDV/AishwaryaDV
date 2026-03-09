@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Aishwarya DV  
 
-##### I'm a full-stack leaning developer with **3+ years of experience** at BT Group and Publicis Sapient, where I’ve built **React-driven interfaces backed by robust APIs and services**. My work sits at the intersection of **frontend performance and system design** — from crafting responsive, highly interactive UIs to working across backend layers when the problem demands it.
+##### I'm a full-stack leaning developer with **3 years of experience** at BT Group and Publicis Sapient, where I’ve built **React-driven interfaces backed by robust APIs and services**. My work sits at the intersection of **frontend performance and system design** — from crafting responsive, highly interactive UIs to working across backend layers when the problem demands it.
 
 ##### On a typical day you’ll find me deep in the **React ecosystem**, optimizing rendering patterns, managing complex application state, integrating APIs, and occasionally tracing performance issues across services and data layers when things get interesting.
 
